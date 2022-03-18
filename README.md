@@ -1,6 +1,8 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![resim](https://cdn.discordapp.com/attachments/884369804268552192/954354060880904213/Adsz.png)
+
 ## Installation
 ---
 Öncelikle projeyi clonelayın.
